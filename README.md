@@ -72,12 +72,12 @@ If you find this project helpful, please consider citing the following papers:
 
 ```
 @article{chen2024frr,
-  title={FRR-NET: a fast reparameterized residual network for low-light image enhancement},
-  author={Chen, Yuhan and Zhu, Ge and Wang, Xianquan and Yang, Huan},
-  journal={Signal, Image and Video Processing},
-  pages={1--10},
-  year={2024},
-  publisher={Springer}
+  title={xxxx},
+  author={xx},
+  journal={xx},
+  pages={xx},
+  year={xx},
+  publisher={xx}
 }
 ```
 
