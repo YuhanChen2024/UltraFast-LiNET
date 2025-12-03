@@ -1,7 +1,6 @@
-# :fire: UltraFast-LiNET
 # :fire: A Lightweight Real-Time Low-Light Enhancement Network for Embedded Automotive Vision Systems
-
-- :star: - :point_right: [Arxiv]
+### :fire: UltraFast-LiNET
+- :star: - :point_right: [Arxiv](https://arxiv.org/abs/2512.02965)
 - :star: - :point_right: [DATESET LOL](https://daooshee.github.io/BMVC2018website/) :point_right:[DATESET LSRW](https://github.com/JianghaiSCU/R2RNet) :point_right:[DATESET LoLI-Street](https://github.com/tanvirnwu/TriFuse_ACCV_2024) 
 - :soon: - The <strong>pre-trained model</strong> will be released after the paper is accepted
 
