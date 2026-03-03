@@ -4,7 +4,7 @@
 - :star: - :point_right: [DATESET LOL](https://daooshee.github.io/BMVC2018website/) :point_right:[DATESET LSRW](https://github.com/JianghaiSCU/R2RNet) :point_right:[DATESET LoLI-Street](https://github.com/tanvirnwu/TriFuse_ACCV_2024) 
 - :soon: - The <strong>pre-trained model</strong> will be released after the paper is accepted
 
-## Introduction
+## Abstract
 
 <img src="https://github.com/YuhanChen2024/UltraFast-LiNET/blob/main/imgs/1.png" alt="my" width="1000" style="display: block; margin: 0 auto;"/>
 <img src="https://github.com/YuhanChen2024/UltraFast-LiNET/blob/main/imgs/2.png" alt="my" width="1000" style="display: block; margin: 0 auto;"/>
@@ -70,13 +70,14 @@ python test.py
 If you find this project helpful, please consider citing the following papers:
 
 ```
-@article{chen2024frr,
-  title={xxxx},
-  author={xx},
-  journal={xx},
-  pages={xx},
-  year={xx},
-  publisher={xx}
+@misc{chen2025lightweightrealtimelowlightenhancement,
+      title={A Lightweight Real-Time Low-Light Enhancement Network for Embedded Automotive Vision Systems}, 
+      author={Yuhan Chen and Yicui Shi and Guofa Li and Guangrui Bai and Jinyuan Shao and Xiangfei Huang and Wenbo Chu and Keqiang Li},
+      year={2025},
+      eprint={2512.02965},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.02965}, 
 }
 ```
 
