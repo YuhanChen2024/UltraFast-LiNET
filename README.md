@@ -161,7 +161,7 @@ low-/normal-light images **by file name** and indexes directories recursively, s
 |:---|:---|:---|
 | **LOL (LOL-v1)** | First paired dataset for supervised LLIE; 485 training / 15 testing pairs. **Used by the code and the released checkpoint in this repo.** | [Project page](https://daooshee.github.io/BMVC2018website/) · [RetinexNet repo](https://github.com/weichen582/RetinexNet) |
 | **LSRW (HUAWEI / NIKON)** | First large-scale real-world paired low-/normal-light dataset, with two subsets captured by HUAWEI P40 Pro and NIKON D7500. Used for evaluation in the paper (Tables 2–3); follow the official train/test split. | [R2RNet repo](https://github.com/JianghaiSCU/R2RNet) |
-| **LoLI-Street** | First large-scale low-light dataset for driving/street scenes. Used for evaluation in the paper (Table 4); no official split is provided, we apply a random 9:1 train/test split. | [LoLI-Street repo](https://github.com/tanvirnwu/LoLI-Street) |
+| **LoLI-Street** | First large-scale low-light dataset for driving/street scenes. Used for evaluation in the paper (Table 4); no official split is provided, we apply a random 9:1 train/test split. | [LoLI-Street repo](https://github.com/tanvirnwu/TriFuse_ACCV_2024) |
 
 Recommended layout after download:
 
