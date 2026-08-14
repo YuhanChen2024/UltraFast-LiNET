@@ -282,7 +282,7 @@ If you find this work useful, please cite:
 
 ## Acknowledgements
 
-We thank the authors of LOL, LSRW/R2RNet, LoLI-Street, and the compared LLIE methods for releasing
+We thank the authors of LOL, LSRW, LoLI-Street, and the compared LLIE methods for releasing
 their datasets and code.
 
 ## Contact
