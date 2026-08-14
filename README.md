@@ -2,7 +2,7 @@
 
 # UltraFast-LiNET: Light-weight Multi-Scale Shift Convolutional Network for Real-Time Low-Light Image Enhancement
 
-Yuhan Chen · Yicui Shi · [Guofa Li](mailto:liguofa@cqu.edu.cn)<sup>†</sup> · Guangrui Bai · Wenxuan Yu · Ying Fang · Wenbo Chu · Keqiang Li
+Yuhan Chen · Yicui Shi · Guofa Li<sup>†</sup> · Guangrui Bai · Wenxuan Yu · Ying Fang · Wenbo Chu · Keqiang Li
 
 Chongqing University · University of Science and Technology of China · National Innovation Center of Intelligent and Connected Vehicles · Tsinghua University
 
